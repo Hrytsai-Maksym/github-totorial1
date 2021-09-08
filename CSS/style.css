@@ -1,9 +1,19 @@
 body{
     background-color:#fff;
     color:#a2a2a2; 
- .ГС{
-     color: #aaaa;
+ .zagolovok{
 
-
+ }
+ .one{
+     color: coral;
+ }
+ .telephone{
+     color: crimson;
+ }
+ .two{
+     color: crimson;
+ }
+ .email{
+     color: crimson;
  }
 }
