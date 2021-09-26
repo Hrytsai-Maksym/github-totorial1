@@ -29,7 +29,11 @@ body{
 /* tegs*/
 .google{
     color: darkblue;
-    
+    /*zadanie 6*/
+    ."link-inline"
+    .link-inline{
+
+    }
 }
 colgroup
 .
